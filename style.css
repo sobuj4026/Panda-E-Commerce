@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+}
+.container{
+    margin-bottom: 75px;
+}
+
+.orange-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+    
+}
+button{
+    border-radius: 7px;
+    border: none;
+    background-color: #ff136f;
+    color: aliceblue;
+    padding: 10px 20px;
+}
+.price{
+    color: #ff136f;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.carousel{
+    border-radius: 20px;
+}
