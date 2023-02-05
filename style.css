@@ -27,3 +27,36 @@ button{
 .carousel{
     border-radius: 20px;
 }
+.cat1{
+    background-color: #ff136f;
+}
+.cat2{
+    background-color: rgb(0, 225, 255);
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    color: white;
+    padding: 20px 40px;
+    border-radius: 25px;
+}
+.catgories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray ;
+}
+.card-footer{
+    border-color: white;
+    border-top: none;
+}
+#subscribe{
+    background-color: #fceae8;
+    padding: 100px;
+}
+#subscribe h6{
+    color: gray;
+}
